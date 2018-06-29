@@ -1,0 +1,18 @@
+Movie Title Length m (length ft) Height m (height ft)
+
+Jurassic Park 12 m (40 ft) 6 m (20 ft)
+Jurassic Park 12 m (40 ft) 7.5 m (25 ft)
+Jurassic Park 12 m (40 ft) 6 m (20 ft)
+Jurassic Park 12 m (40 ft) 7.6 m (25 ft)
+Jurassic Park 12 m (40 ft) 5.4 m (18 ft)
+
+The Lost World 12 m (39 ft) 5.5 m (18 ft)
+The Lost World 10 m (33 ft) 4.3 m (14 ft)
+
+Jurassic Park III 11.10 m (37 ft) 4.35 m (14.5 ft)
+Jurassic Park III 11 m (37 ft) 4.5 m (14.5 ft)
+Jurassic Park III 11.3 m (37 ft) 4.4 m (14.4)
+
+Jurassic World 12 m (40 ft) 5 m (16 ft)
+Jurassic World 13.4 m (44 ft) 5.1 m (16.8 ft)
+Jurassic World 12 m (40 ft) 4.5 m (15 ft)

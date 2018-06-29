@@ -1,0 +1,35 @@
+for this dinochallenge youre going to sort the dinos into groups by name and height (imperial units)
+
+all dinos that contain 'saur' are 'a real dino' other wise they are 'not a thunder lizard'
+
+all dinos that are 15 feet tall are 'big dinos'
+
+all dinos that are under 10 feet are 'itty bitty teeny weeny dinos'
+
+round all heights of 'big dinos' to the nearest integer (order greatest to least)
+
+add .5 feet to each 'itty bitty teeny weeny dinos' (order greatest to least)
+
+the velociraptor will be labeled the 'the smartest dino' will have its height rounded like the 'big dinos' and will not be in any other group
+
+INPUT INFO
+name nickname height: ft m length: ft m weight: lbs kg (9 items)
+
+
+EXAMPLE OUTPUT
+
+the SMARTEST dino
+velociraptor 2 ft
+
+BIG DINOS
+fooasaurus 18 ft *a real dino
+footeryx 15 ft *not a thunder lizard
+
+itty bitty teeny weeny dinos
+boopetryx 10.5 ft *not a thunder lizard
+boopasaurus 9.0 ft *a real dino
+
+
+
+SOURCE
+http://www.dinodatabase.com/dinorcds.asp

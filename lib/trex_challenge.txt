@@ -1,0 +1,55 @@
+for this dinochallenge, you will use information from the largest trex to make calculations for several trex from jurassic park franchise.
+
+you will be given an input file, assign an alphanumeric tracking number, calculate, sort, and output the new data.
+
+**all results in meters (m) to one
+decimal place
+
+THE LARGEST TREX
+  largest trex(Sue):
+  length: 12.3 meters (40 ft)
+  hip height: 3.66 meters (12 ft)
+  foot length: 83 centimeters (33 in)
+  foot height: 71 centimeters (28 in)
+  stride length: 3.7 (12 ft)
+  running speed: 24 kph (15 mph)
+
+THE CHALLENGE(DETAILS)
+assign alphanumeric number tracking number
+  jurassic park with begin with the letter "a"
+  lost word will begin with the letter "b"
+  jurassic park iii begin with the letter "c"
+  jurassic world begin with the letter "d".
+
+using sue's measurements, calculate the following(assume linear relationships):
+  hip height
+  stride length
+  running speed
+
+Use this information to calculate the foot length:
+  leg length can be found by taking the footprint length times 5
+
+Use this information to calculate the Froude number:
+  Fr = v^2/gh, where v is the forward velocity(use running speed), g the acceleration due to gravity(9.8 m/s^2), and h the hip height.
+  *if number Fr = 16 then say 'Fr of ostrich'
+
+
+EXAMPLE OUTPUT (in order from fastest to slowest)
+a06
+running speed: 20.0 kph
+hip height: 3.1 m
+foot length: 0.8 m
+froude number: 16.0 (*Fr of ostrich)
+
+d11
+running speed: 19.0 kph
+hip height: 3.0 m
+foot length: 0.7 m
+froude number: 15.0
+
+
+THE SOURCES
+https://en.wikipedia.org/wiki/Tyrannosaurus
+http://www.enchantedlearning.com/subjects/dinosaurs/dinos/trex/Trexlocomotion.shtml
+http://jurassicpark.wikia.com/d/p/2635104128073980666
+https://physicstoday.scitation.org/doi/full/10.1063/1.1480769
